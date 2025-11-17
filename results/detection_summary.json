@@ -1,0 +1,15 @@
+{
+    "contamination": 0.1,
+    "train_size": 7320,
+    "test_size": 1830,
+    "detectors": {
+        "isolation_forest": {
+            "num_anomalies": 181,
+            "anomaly_rate": 9.89071038251366
+        },
+        "lof": {
+            "num_anomalies": 194,
+            "anomaly_rate": 10.601092896174864
+        }
+    }
+}

@@ -1,0 +1,84 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Environment / secrets
+.env
+.env
+secrets.*
+credentials.json
+*.pem
+*.key
+
+# Data, models, logs, and outputs (common for ML projects)
+# data/
+# datasets/
+# models/
+outputs/
+logs/
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.log
+
+# Google Drive / Office temp files
+~$*
+*.gdoc
+*.gsheet

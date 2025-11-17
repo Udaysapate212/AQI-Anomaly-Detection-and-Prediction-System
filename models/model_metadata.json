@@ -1,0 +1,6 @@
+{
+  "best_regressor_name": "Random Forest",
+  "best_classifier_name": "Gradient Boosting",
+  "regressor_uses_scaled": false,
+  "classifier_uses_scaled": false
+}
